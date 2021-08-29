@@ -66,7 +66,7 @@ router.put("/:id", (req, res) => {
     where: { id: req.params.id },
   })
     .then((dbCategoryData) => {
-      if (!dbCategoryData) {
+      if (!dbCategoryData[0]) {
         res.status(404).json({ message: "No category was found" });
         return;
       }
