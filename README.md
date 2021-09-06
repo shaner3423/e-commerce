@@ -23,6 +23,9 @@ SO THAT my company can compete with other e-commerce companies
 ## Video Walkthrough
 https://youtu.be/I31Kcco9CE8
 
+In-case the video on youtube does not work...you can see the video here:
+https://drive.google.com/file/d/1DXGoAtbok4u6-e6t4nl1A-RlEWRs5Zuc/view?usp=sharing
+
 
 
 ## Technologies Use
