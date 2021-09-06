@@ -22,6 +22,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Video Walkthrough
 https://drive.google.com/file/d/1DXGoAtbok4u6-e6t4nl1A-RlEWRs5Zuc/view?usp=sharing
+<a href="https://www.freeconvert.com/video-compressor" target="_blank">Walthrough Video</a>
 
 
 ## Technologies Use
