@@ -20,8 +20,8 @@ SO THAT my company can compete with other e-commerce companies
 - Users also able to delete item.
 - Users also able to update an item's information.
 
-## Gif Walkthrough
-https://kapwi.ng/w/v4uZng9m2V
+## Video Walkthrough
+https://drive.google.com/file/d/1DXGoAtbok4u6-e6t4nl1A-RlEWRs5Zuc/view?usp=sharing
 
 
 ## Technologies Use
