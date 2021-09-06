@@ -21,6 +21,7 @@ SO THAT my company can compete with other e-commerce companies
 - Users also able to update an item's information.
 
 ## Gif Walkthrough
+https://kapwi.ng/w/v4uZng9m2V
 
 
 ## Technologies Use
