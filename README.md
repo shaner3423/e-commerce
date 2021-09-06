@@ -21,7 +21,7 @@ SO THAT my company can compete with other e-commerce companies
 - Users also able to update an item's information.
 
 ## Video Walkthrough
-https://drive.google.com/file/d/1DXGoAtbok4u6-e6t4nl1A-RlEWRs5Zuc/view?usp=sharing
+https://youtu.be/I31Kcco9CE8
 
 
 
